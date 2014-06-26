@@ -1,5 +1,5 @@
 #include <stdio.h>
-/* hellogit.c */
+/* hellogit.c this file is to be commited */
 
 int main() 
 {
